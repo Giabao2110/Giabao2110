@@ -6,7 +6,7 @@
     <a href="mailto:giabao21102003@gmail.com">
       <img src="https://img.shields.io/badge/Email-giabao21102003%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
     </a>
-    <a href="[https://www.linkedin.com/in/giabao2110](https://www.linkedin.com/in/l%C3%AA-ng%C3%B4-gia-b%E1%BA%A3o-82279536b/)">
+    <a href="[https://www.linkedin.com/in/l%C3%AA-ng%C3%B4-gia-b%E1%BA%A3o-82279536b/]">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
